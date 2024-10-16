@@ -1,0 +1,42 @@
+Application: HOI4 
+Version: Bolivar v1.14.10.51f5 
+Date/Time: 2024-10-16 19:36:57
+
+Unhandled Exception C0000005 (EXCEPTION_ACCESS_VIOLATION) at address 0x00007FF6263AFD3F
+
+Stack Trace: 
+  1    hoi4.exe                 PHYSFS_swapULE64 (+ 3051183)
+  2    hoi4.exe                 PHYSFS_swapULE64 (+ 2508146)
+  3    hoi4.exe                 PHYSFS_swapULE64 (+ 7782577)
+  4    hoi4.exe                 PHYSFS_swapULE64 (+ 7780566)
+  5    hoi4.exe                 PHYSFS_swapSLE32 (+ 2097950)
+  6    hoi4.exe                 PHYSFS_swapULE64 (+ 10230273)
+  7    hoi4.exe                 PHYSFS_swapSLE32 (+ 2097950)
+  8    hoi4.exe                 PHYSFS_swapULE64 (+ 3786752)
+  9    hoi4.exe                 PHYSFS_swapSLE32 (+ 2097950)
+  10   hoi4.exe                 (function-name not available) (+ 0)
+  11   hoi4.exe                 PHYSFS_swapULE64 (+ 29409969)
+  12   hoi4.exe                 PHYSFS_swapULE64 (+ 29410503)
+  13   hoi4.exe                 (function-name not available) (+ 0)
+  14   hoi4.exe                 (function-name not available) (+ 0)
+  15   tbb.dll                  tbb::interface7::internal::task_arena_base::internal_initialize (+ 18587)
+  16   hoi4.exe                 (function-name not available) (+ 0)
+  17   hoi4.exe                 PHYSFS_swapULE64 (+ 10670749)
+  18   hoi4.exe                 PHYSFS_swapULE64 (+ 10673248)
+  19   hoi4.exe                 PHYSFS_swapULE64 (+ 23725995)
+  20   hoi4.exe                 PHYSFS_swapULE64 (+ 768607)
+  21   hoi4.exe                 PHYSFS_swapULE64 (+ 29980622)
+  22   hoi4.exe                 PHYSFS_swapULE64 (+ 29982242)
+  23   hoi4.exe                 PHYSFS_swapULE64 (+ 29982959)
+  24   hoi4.exe                 PHYSFS_swapULE64 (+ 30130152)
+  25   hoi4.exe                 PHYSFS_swapULE64 (+ 29592901)
+  26   hoi4.exe                 PHYSFS_swapULE64 (+ 29590587)
+  27   hoi4.exe                 PHYSFS_swapULE64 (+ 7881830)
+  28   hoi4.exe                 PHYSFS_swapULE64 (+ 29392848)
+  29   hoi4.exe                 PHYSFS_swapULE64 (+ 29390506)
+  30   hoi4.exe                 (function-name not available) (+ 0)
+  31   hoi4.exe                 PHYSFS_writeUBE16 (+ 444450)
+  32   hoi4.exe                 PHYSFS_writeUBE16 (+ 562)
+  33   KERNEL32.DLL             BaseThreadInitThunk (+ 29)
+  34   ntdll.dll                RtlUserThreadStart (+ 40)
+  35   ntdll.dll                RtlUserThreadStart (+ 40)

@@ -1,0 +1,26 @@
+# Crash Information
+AppName: HOI4 
+AppVersion: Bolivar v1.14.10.51f5 
+SCMBranch: HEAD 
+SCMCommit: 51f5e08a728f2afbf98cb4a7c72297e49c2987ef 
+SCMTimeStamp: "2024-10-12 13:58:58 +0000" 
+DateTime: "2024-10-16 19:36:54 -0300" 
+BuildType: Release 
+Platform: Windows 
+Architecture: 64-bit 
+OperatingSystem: Windows 11 x86_64 
+SystemLanguage: pt 
+CPUModel: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz 
+CPUSpeed: 0 
+CPUPhysicalCores: 2 
+CPULogicalCores: 4 
+SystemMemory: 8151 
+LaunchArguments: --debug_mode --gdpr-compliant --paradox-account-userid="" --pdx-launcher-session-token="" 
+
+# Application Specific Data 
+IsLiveBuild: true 
+DataChecksum: fa3abb54f6bd9fc867c9c4b135c411eb
+AppChecksum: d41d8cd98f00b204e9800998ecf8427e
+HasMods: true
+Mods: 12 Support Companies 1.11 Compat 25 Factories 250 COMMAND POWER LIMIT Additional Effects: RE-loaded Allied Construction Projects Alternative Flags Reupload Alternative Naval Base Icons Base Equipment Capture Ratio Better Government Better Mechanics  : Optimization Better Mechanics : Frontline AI | Updated Better Mechanics : More Advisors Better Mechanics : More Spies Better Mechanics : Officer Corps Better Mechanics : War Exhaustion Civilian Industrial Complex Coloured Buttons Updated Combat Width Redesigned Rebirth Decisions & Formables Plus Embargo Mod Exile governments and puppets for all ideologies RT56 edit Expanded Continuous Focuses - Road to 56 Compatibility Formable Nations (3rewster) Improved Dockyard Limit Landlord Larger Theater Box Military Decisions + Modifier Icons More Decisions More Division Icons Fixed More Medals More Ranks for Generals and Tweeked (less) XP to lvl UP More Support Tanks Pipe's Formable Puppets Pipe's Formable Puppets - RT56 Patch Propaganda Campaigns Propaganda Campaigns: Italy Propaganda Campaigns: Pacific Puppet Flags & Colors Reupload Puppet Manager Realistic Nukes - Updated Recall Volunteers Rename Factions (with keyboard!) Reworked air designer RT56 Burner edition State constructions improved updated Tannu Tuva Improved The Road To 56: No Puppet Division Spam The Road to 56 VNR - No AA gun limits for small warships VNR RT56 Compatch Vanilla Navy Rework We Shall Never Surrender - Desperate Defence {AIGFX} Visible Railroads
+IsOldSave: true
